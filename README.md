@@ -27,3 +27,7 @@ I'm continuously expanding my data science and analytics knowledge through cours
 
 Feel free to explore my repositories to see some of the work I've been involved in!
 
+## 
+
+https://roadmap.sh/card/wide/66f217c1c45e253cb0e8d3d1?variant=dark&roadmaps=data-analyst%2Cpython%2Cai-data-scientist%2Csql
+
