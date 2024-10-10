@@ -6,8 +6,8 @@ I am a dedicated Data Analyst student with a strong foundation in Applied Scienc
 
 | **Programming Language** | **Proficiency**      |
 |--------------------------|----------------------|
-| Python                   | ⭐⭐⭐⭐⭐         |
-| R                        | ⭐⭐⭐⭐           |
+| Python                   | ⭐⭐⭐⭐           |
+| R                        | ⭐⭐⭐              |
 | SQL                      | ⭐⭐⭐              |
 | C                        | ⭐⭐                |
 
@@ -28,5 +28,4 @@ I'm continuously expanding my data science and analytics knowledge through cours
 Feel free to explore my repositories to see some of the work I've been involved in!
 
 ## 
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66f217c1c45e253cb0e8d3d1?variant=dark&roadmaps=data-analyst%2Cpython%2Cai-data-scientist%2Csql" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66f217c1c45e253cb0e8d3d1?variant=dark" alt="roadmap.sh"/></a>
